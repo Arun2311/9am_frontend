@@ -38,7 +38,7 @@ function App() {
 
       {/* <Product/> */}
 
-      {/* <ApiCall/> */}
+      <ApiCall/>
 
       {/* {hide ? <ApiCallTwo /> : "logout pls login"} */}
 
@@ -54,7 +54,7 @@ function App() {
 {/* <GrocerryList/> */}
 
 
-<h1>Arunachalam</h1>
+{/* <h1>Arunachalam</h1> */}
 
 
 </CounterProvider>
